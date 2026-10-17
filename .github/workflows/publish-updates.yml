@@ -1,0 +1,33 @@
+name: Publish signed update feeds
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Published release tag
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: signed-update-feeds
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - name: Validate signed manifests and update feeds
+        env:
+          RELEASE_TAG: ${{ github.event.release.tag_name || inputs.tag }}
+        run: node sync-feeds.cjs
+      - name: Commit verified feeds
+        run: |
+          git config user.name "Systemile Releases"
+          git config user.email "releases@users.noreply.github.com"
+          git add catalogue.json updates
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish verified installer update feeds"
+          git push origin HEAD:main
