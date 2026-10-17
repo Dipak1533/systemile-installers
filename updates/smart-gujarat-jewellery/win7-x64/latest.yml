@@ -1,8 +1,8 @@
-version: 0.1.13
+version: 0.1.14
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T12-12-56-487Z/Jewellery-Systemile-0.1.13-win7-x64.exe"
-    sha512: eMUoXQZs2qmTV73i3l9HF+rgfk786n7aboaxhK1kNuPzTZYJAHFrezk3ZT42m5VVqW2w6jGHEx90PaVsAVaEaQ==
-    size: 73360772
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T12-12-56-487Z/Jewellery-Systemile-0.1.13-win7-x64.exe"
-sha512: eMUoXQZs2qmTV73i3l9HF+rgfk786n7aboaxhK1kNuPzTZYJAHFrezk3ZT42m5VVqW2w6jGHEx90PaVsAVaEaQ==
-releaseDate: "2026-10-17T12:13:25.501Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Jewellery-Systemile-0.1.14-win7-x64.exe"
+    sha512: ZKPdtQn+QZ/jItpETJvIt4lElSzsBuWfPl765PP7CxHfoDOovzyBCy/+uCqS8f/9FDSBYCO5xOwWko++aAOXzQ==
+    size: 73361805
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Jewellery-Systemile-0.1.14-win7-x64.exe"
+sha512: ZKPdtQn+QZ/jItpETJvIt4lElSzsBuWfPl765PP7CxHfoDOovzyBCy/+uCqS8f/9FDSBYCO5xOwWko++aAOXzQ==
+releaseDate: "2026-10-17T13:18:04.064Z"

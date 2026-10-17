@@ -1,8 +1,8 @@
-version: 0.1.16
+version: 0.1.17
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T12-12-56-487Z/Library-Systemile-0.1.16-win7-x64.exe"
-    sha512: RJFpsMf9COFFRLAoXuIzpDPM5s9RX0+HUIlrpdYib8SH1crOQqOVw31+W7cxPrLN+FgHrZV9GmKmBZzt5a2uOg==
-    size: 340907022
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T12-12-56-487Z/Library-Systemile-0.1.16-win7-x64.exe"
-sha512: RJFpsMf9COFFRLAoXuIzpDPM5s9RX0+HUIlrpdYib8SH1crOQqOVw31+W7cxPrLN+FgHrZV9GmKmBZzt5a2uOg==
-releaseDate: "2026-10-17T12:13:25.502Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Library-Systemile-0.1.17-win7-x64.exe"
+    sha512: wYF9poy8aWFyoTuEv2kBSrc5u7+Ecq8OwgOo8/ljwl54XejFySlI2GHcJXgaE4tqvYBm80bRF7dHJNKHsPAVfg==
+    size: 340907514
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Library-Systemile-0.1.17-win7-x64.exe"
+sha512: wYF9poy8aWFyoTuEv2kBSrc5u7+Ecq8OwgOo8/ljwl54XejFySlI2GHcJXgaE4tqvYBm80bRF7dHJNKHsPAVfg==
+releaseDate: "2026-10-17T13:18:04.065Z"
