@@ -1,8 +1,8 @@
-version: 0.1.18
+version: 0.1.19
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Library-Systemile-0.1.18-win10-ia32.exe"
-    sha512: VcP4rwe1mbZ1q7JXoYpO1Jws2RrC/1fas9CBykRqR1YYKx5aF8JHNiFV0Dg+zrG6CIj6hbrY5jlTb5BLS3lWNg==
-    size: 362756329
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Library-Systemile-0.1.18-win10-ia32.exe"
-sha512: VcP4rwe1mbZ1q7JXoYpO1Jws2RrC/1fas9CBykRqR1YYKx5aF8JHNiFV0Dg+zrG6CIj6hbrY5jlTb5BLS3lWNg==
-releaseDate: "2026-10-18T19:04:52.698Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Library-Systemile-0.1.19-win10-ia32.exe"
+    sha512: gPLzHLdssRphbikKMTPnKh7tJZeKQyB3p5jNLzVeQocRQLI+7xY/GN8/idkXjlLCdpEd7XZFZtbSJCHnjbLkAQ==
+    size: 362764330
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Library-Systemile-0.1.19-win10-ia32.exe"
+sha512: gPLzHLdssRphbikKMTPnKh7tJZeKQyB3p5jNLzVeQocRQLI+7xY/GN8/idkXjlLCdpEd7XZFZtbSJCHnjbLkAQ==
+releaseDate: "2026-10-18T20:49:31.627Z"

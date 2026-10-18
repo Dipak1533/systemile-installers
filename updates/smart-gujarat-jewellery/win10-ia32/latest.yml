@@ -1,8 +1,8 @@
-version: 0.1.15
+version: 0.1.16
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Jewellery-Systemile-0.1.15-win10-ia32.exe"
-    sha512: O3uQty9E5y8GXqk9Rj2S7IBV41RIfqKlboB84ZffHkI7oP8zC2fdoZouPbyXO2FsUfsN+vfdVm8OiLBIyo5cgg==
-    size: 95186582
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Jewellery-Systemile-0.1.15-win10-ia32.exe"
-sha512: O3uQty9E5y8GXqk9Rj2S7IBV41RIfqKlboB84ZffHkI7oP8zC2fdoZouPbyXO2FsUfsN+vfdVm8OiLBIyo5cgg==
-releaseDate: "2026-10-18T19:04:52.697Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Jewellery-Systemile-0.1.16-win10-ia32.exe"
+    sha512: VcuuK2COzP/7rf+pbg7APx4kVVvYr57GnJ3hdl7cxhE5Gv09b7yBrayOCxw6YxR05QKIaK6EmNUQqkgOaAzu9g==
+    size: 95188296
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Jewellery-Systemile-0.1.16-win10-ia32.exe"
+sha512: VcuuK2COzP/7rf+pbg7APx4kVVvYr57GnJ3hdl7cxhE5Gv09b7yBrayOCxw6YxR05QKIaK6EmNUQqkgOaAzu9g==
+releaseDate: "2026-10-18T20:49:31.626Z"

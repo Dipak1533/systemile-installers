@@ -1,8 +1,8 @@
-version: 1.3.18
+version: 1.3.19
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Shop-Systemile-1.3.18-win7-ia32.exe"
-    sha512: vQ2wZQ/+BvWI2yA5xuJCsIWjW6i4ohpWk+4UDppnVocHJP49TGY2rkZ+/SQx/ztCvTnT3TEd4oLW5//pkgkNXQ==
-    size: 78147861
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Shop-Systemile-1.3.18-win7-ia32.exe"
-sha512: vQ2wZQ/+BvWI2yA5xuJCsIWjW6i4ohpWk+4UDppnVocHJP49TGY2rkZ+/SQx/ztCvTnT3TEd4oLW5//pkgkNXQ==
-releaseDate: "2026-10-18T19:04:52.700Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Shop-Systemile-1.3.19-win7-ia32.exe"
+    sha512: YAfdtFVP2w9zVMLmPhirzzOSDn6Naoi6jFUTS1XsWfTEskZA0x2/VntBCaTHdGcY6ycQKahGMOzZIWHjy0uapw==
+    size: 78148630
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Shop-Systemile-1.3.19-win7-ia32.exe"
+sha512: YAfdtFVP2w9zVMLmPhirzzOSDn6Naoi6jFUTS1XsWfTEskZA0x2/VntBCaTHdGcY6ycQKahGMOzZIWHjy0uapw==
+releaseDate: "2026-10-18T20:49:31.629Z"

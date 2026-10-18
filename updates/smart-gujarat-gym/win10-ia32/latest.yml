@@ -1,8 +1,8 @@
-version: 0.1.15
+version: 0.1.16
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Gym-Systemile-0.1.15-win10-ia32.exe"
-    sha512: cPtw0wgdPaPHvIO23BsqFDxPanKqI81f6Aap+1Xsrnr8Kb/1ogvG5Ri9DeuPhDn3X4EVAXDB6rzijvW/v+33Og==
-    size: 95289308
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Gym-Systemile-0.1.15-win10-ia32.exe"
-sha512: cPtw0wgdPaPHvIO23BsqFDxPanKqI81f6Aap+1Xsrnr8Kb/1ogvG5Ri9DeuPhDn3X4EVAXDB6rzijvW/v+33Og==
-releaseDate: "2026-10-18T19:04:52.695Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Gym-Systemile-0.1.16-win10-ia32.exe"
+    sha512: zcb42DIkQr6fno/YpieDv/NFzXwx9Ha23BnhnZJFbkk5itIqkXTNR2Kx4ANSmh/Y6CtzrgoX0r0oMdNGNC5pHw==
+    size: 95297938
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Gym-Systemile-0.1.16-win10-ia32.exe"
+sha512: zcb42DIkQr6fno/YpieDv/NFzXwx9Ha23BnhnZJFbkk5itIqkXTNR2Kx4ANSmh/Y6CtzrgoX0r0oMdNGNC5pHw==
+releaseDate: "2026-10-18T20:49:31.624Z"

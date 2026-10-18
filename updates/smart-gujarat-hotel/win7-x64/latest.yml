@@ -1,8 +1,8 @@
-version: 0.1.15
+version: 0.1.16
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Hotel-Systemile-0.1.15-win7-x64.exe"
-    sha512: RDzsf/MqO3SxveCmLupwLAfoMDh8+dTSTbTxfXguh4cuShs6Ujd08qhvEYFAhBFmXpgTgDg5QjxYie6/dUD4NQ==
-    size: 76240319
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Hotel-Systemile-0.1.15-win7-x64.exe"
-sha512: RDzsf/MqO3SxveCmLupwLAfoMDh8+dTSTbTxfXguh4cuShs6Ujd08qhvEYFAhBFmXpgTgDg5QjxYie6/dUD4NQ==
-releaseDate: "2026-10-18T19:04:52.696Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Hotel-Systemile-0.1.16-win7-x64.exe"
+    sha512: nYPzRI/AgZFMsCybB8WY+hqLwB8/Wdlxf1DxuCkkrLoPbWckCpkvZlmYNKww0lI79Rca5xM2yN2i6ClqIIeySw==
+    size: 76242906
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Hotel-Systemile-0.1.16-win7-x64.exe"
+sha512: nYPzRI/AgZFMsCybB8WY+hqLwB8/Wdlxf1DxuCkkrLoPbWckCpkvZlmYNKww0lI79Rca5xM2yN2i6ClqIIeySw==
+releaseDate: "2026-10-18T20:49:31.625Z"
