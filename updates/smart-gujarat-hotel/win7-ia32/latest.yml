@@ -1,8 +1,8 @@
-version: 0.1.14
+version: 0.1.15
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Hotel-Systemile-0.1.14-win7-ia32.exe"
-    sha512: XFCE3NHmOJuzKw4HlIcAokQOmb0/gZ5Kkgvj7tLeXhFGTlo8nPfeg9DiiuxjHZ06Dyb/ix6u3JUNXUy9iz02KA==
-    size: 69772844
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Hotel-Systemile-0.1.14-win7-ia32.exe"
-sha512: XFCE3NHmOJuzKw4HlIcAokQOmb0/gZ5Kkgvj7tLeXhFGTlo8nPfeg9DiiuxjHZ06Dyb/ix6u3JUNXUy9iz02KA==
-releaseDate: "2026-10-17T13:18:04.063Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Hotel-Systemile-0.1.15-win7-ia32.exe"
+    sha512: 5bdC5H4SxORfoFCIevXweP9sFeaRDYbUvpHIs7GynKdUSmV+tbShKlDsG6lT8NP9AiocP3SyMcx65xeM/5A6cw==
+    size: 72612979
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Hotel-Systemile-0.1.15-win7-ia32.exe"
+sha512: 5bdC5H4SxORfoFCIevXweP9sFeaRDYbUvpHIs7GynKdUSmV+tbShKlDsG6lT8NP9AiocP3SyMcx65xeM/5A6cw==
+releaseDate: "2026-10-18T19:04:52.697Z"

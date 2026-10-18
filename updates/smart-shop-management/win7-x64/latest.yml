@@ -1,8 +1,8 @@
-version: 1.3.17
+version: 1.3.18
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Shop-Systemile-1.3.17-win7-x64.exe"
-    sha512: XdaK/tP5YjYBFEH71HUq+mYrDpXIstHEsZXUCEacnArrKPADlh8WYG2DTZ9W3c4DfEACJ/mue3kic6swLQCP4w==
-    size: 79658148
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-17T13-17-38-525Z/Shop-Systemile-1.3.17-win7-x64.exe"
-sha512: XdaK/tP5YjYBFEH71HUq+mYrDpXIstHEsZXUCEacnArrKPADlh8WYG2DTZ9W3c4DfEACJ/mue3kic6swLQCP4w==
-releaseDate: "2026-10-17T13:18:04.067Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Shop-Systemile-1.3.18-win7-x64.exe"
+    sha512: XxCbZPDSEC/ArdjmNv6yaUnD3NK8WopKtDV2VAc/Y2qg/Xfb11laD8diHUn/1C9U2WDfUVHmcBCAc4NOJaT9gQ==
+    size: 81926080
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T19-04-25-428Z/Shop-Systemile-1.3.18-win7-x64.exe"
+sha512: XxCbZPDSEC/ArdjmNv6yaUnD3NK8WopKtDV2VAc/Y2qg/Xfb11laD8diHUn/1C9U2WDfUVHmcBCAc4NOJaT9gQ==
+releaseDate: "2026-10-18T19:04:52.700Z"
