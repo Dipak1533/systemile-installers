@@ -1,8 +1,8 @@
-version: 0.1.16
+version: 0.1.17
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Gym-Systemile-0.1.16-win7-ia32.exe"
-    sha512: s0/S8DbdDzatTWGBE5hIcZOxXFJHMM7tRjdKSpYcnI6FJyZYYL7RBRKSJAdE6Pq+ugCx0N1D/SfArwIyrHsG0Q==
-    size: 72661353
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Gym-Systemile-0.1.16-win7-ia32.exe"
-sha512: s0/S8DbdDzatTWGBE5hIcZOxXFJHMM7tRjdKSpYcnI6FJyZYYL7RBRKSJAdE6Pq+ugCx0N1D/SfArwIyrHsG0Q==
-releaseDate: "2026-10-18T20:49:31.624Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-23T20-37-45-377Z/Gym-Systemile-0.1.17-win7-ia32.exe"
+    sha512: RbWAZrzyvuDXH6m8DSxkG7d0EMV8+jvtrqw3TEVymObb3hOWYH9dJLETfO/mm7wSdflAMY0zueW3syVT/EJFhA==
+    size: 76413136
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-23T20-37-45-377Z/Gym-Systemile-0.1.17-win7-ia32.exe"
+sha512: RbWAZrzyvuDXH6m8DSxkG7d0EMV8+jvtrqw3TEVymObb3hOWYH9dJLETfO/mm7wSdflAMY0zueW3syVT/EJFhA==
+releaseDate: "2026-10-23T20:38:10.939Z"

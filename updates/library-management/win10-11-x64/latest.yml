@@ -1,8 +1,8 @@
-version: 0.1.19
+version: 0.1.22
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Library-Systemile-0.1.19-win10-11-x64.exe"
-    sha512: tiHrKntytm3S134p2cFJ1pmhaYxyaK5Orm7H0LQrRknYnXwjWELWn0cZPTqiqYlSnKMFf/H+pTJDbR5au+SETQ==
-    size: 383782754
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-18T20-48-59-081Z/Library-Systemile-0.1.19-win10-11-x64.exe"
-sha512: tiHrKntytm3S134p2cFJ1pmhaYxyaK5Orm7H0LQrRknYnXwjWELWn0cZPTqiqYlSnKMFf/H+pTJDbR5au+SETQ==
-releaseDate: "2026-10-18T20:49:31.627Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-23T20-37-45-377Z/Library-Systemile-0.1.22-win10-11-x64.exe"
+    sha512: 6hjsGvMTFc4Se26PwSY282pX3Gsl8PZzOvemXv5VYj2tL96Jvo/gjbRtceZSiwqhveQJenIg+YJkaTQyHmc5JQ==
+    size: 384343248
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-23T20-37-45-377Z/Library-Systemile-0.1.22-win10-11-x64.exe"
+sha512: 6hjsGvMTFc4Se26PwSY282pX3Gsl8PZzOvemXv5VYj2tL96Jvo/gjbRtceZSiwqhveQJenIg+YJkaTQyHmc5JQ==
+releaseDate: "2026-10-23T20:38:10.943Z"
