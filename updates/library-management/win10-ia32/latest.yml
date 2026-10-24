@@ -1,8 +1,8 @@
-version: 0.1.22
+version: 0.1.23
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-23T20-37-45-377Z/Library-Systemile-0.1.22-win10-ia32.exe"
-    sha512: eoiF6Bx9mM/Q/NlFVWC/PAs8E1W9GDP+nvOhBllfawSu6pnDQdLWg81k9FgPaGkWiWo+Nir9RemRT3uTlUrDPQ==
-    size: 363317822
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-23T20-37-45-377Z/Library-Systemile-0.1.22-win10-ia32.exe"
-sha512: eoiF6Bx9mM/Q/NlFVWC/PAs8E1W9GDP+nvOhBllfawSu6pnDQdLWg81k9FgPaGkWiWo+Nir9RemRT3uTlUrDPQ==
-releaseDate: "2026-10-23T20:38:10.943Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-24T01-00-27-729Z/Library-Systemile-0.1.23-win10-ia32.exe"
+    sha512: cpxIAQmKr3AThNgQ+VQm1eQsZkmD+U1W6579FpybCEoDMOmphY3qf1gwUs+NL/qUG/LVRbxXkS41QeSJfejizA==
+    size: 363322127
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-10-24T01-00-27-729Z/Library-Systemile-0.1.23-win10-ia32.exe"
+sha512: cpxIAQmKr3AThNgQ+VQm1eQsZkmD+U1W6579FpybCEoDMOmphY3qf1gwUs+NL/qUG/LVRbxXkS41QeSJfejizA==
+releaseDate: "2026-10-24T01:00:33.758Z"
