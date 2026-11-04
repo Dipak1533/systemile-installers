@@ -1,8 +1,8 @@
-version: 0.2.1
+version: 0.2.2
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-restaurant-0.2.1-2026-11-04T09-06-01-715Z/Restaurant-Systemile-0.2.1-x64.exe"
-    sha512: X1EFwyOae774RQmZlbyp2DM9cEx67Vm3AFw/dPkrPLLZ+tWgEoXzmqwu1/8LcLYx15V8du1D8rx+EsJXRYTkug==
-    size: 112283968
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-restaurant-0.2.1-2026-11-04T09-06-01-715Z/Restaurant-Systemile-0.2.1-x64.exe"
-sha512: X1EFwyOae774RQmZlbyp2DM9cEx67Vm3AFw/dPkrPLLZ+tWgEoXzmqwu1/8LcLYx15V8du1D8rx+EsJXRYTkug==
-releaseDate: "2026-11-04T09:06:01.851Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-restaurant-0.2.2-2026-11-04T10-03-09-465Z/Restaurant-Systemile-0.2.2-x64.exe"
+    sha512: MSJZBAzC5e74DXiNluFBMB3UJbiJzODy+WPY7Ei+7eeHDig5jTwXKA1xkMgpjZ0jgvh8c59IAb6+HguWD9J5gA==
+    size: 112284291
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-restaurant-0.2.2-2026-11-04T10-03-09-465Z/Restaurant-Systemile-0.2.2-x64.exe"
+sha512: MSJZBAzC5e74DXiNluFBMB3UJbiJzODy+WPY7Ei+7eeHDig5jTwXKA1xkMgpjZ0jgvh8c59IAb6+HguWD9J5gA==
+releaseDate: "2026-11-04T10:03:09.632Z"
