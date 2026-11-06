@@ -1,8 +1,8 @@
-version: 1.3.21
+version: 1.3.22
 files:
-  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-11-06T11-06-22-105Z/Shop-Systemile-1.3.21-win10-ia32.exe"
-    sha512: DMFRbIVTUCfnJxHZqNYM0Gp2xZQxAw7BQhf8MViBN2fOIYhOkYoSJ3YsaMIvu6iYAQa/6okekWmIpfnuuVtTdQ==
-    size: 99920903
-path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-11-06T11-06-22-105Z/Shop-Systemile-1.3.21-win10-ia32.exe"
-sha512: DMFRbIVTUCfnJxHZqNYM0Gp2xZQxAw7BQhf8MViBN2fOIYhOkYoSJ3YsaMIvu6iYAQa/6okekWmIpfnuuVtTdQ==
-releaseDate: "2026-11-06T11:06:23.646Z"
+  - url: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-11-06T19-21-00-943Z/Shop-Systemile-1.3.22-win10-ia32.exe"
+    sha512: 7s29oGNKuLLzTNtMVBCV88rFYf3a8P9WiyQPudBjq7l0CTT+epMvOkKIPFPl+AxJS12e6IQ8W8AniBhoCjwicw==
+    size: 99963265
+path: "https://github.com/Dipak1533/systemile-installers/releases/download/release-2026-11-06T19-21-00-943Z/Shop-Systemile-1.3.22-win10-ia32.exe"
+sha512: 7s29oGNKuLLzTNtMVBCV88rFYf3a8P9WiyQPudBjq7l0CTT+epMvOkKIPFPl+AxJS12e6IQ8W8AniBhoCjwicw==
+releaseDate: "2026-11-06T19:21:02.998Z"
